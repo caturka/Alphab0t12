@@ -1,0 +1,20 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": "#",
+	"language":"ind",
+	"ownerNumber": "62895631966911",
+	"ownerNumberr": "62895631966911",
+	"cr": "@Catur K.A",
+	"ownername": "Catur K.A",
+	"botname":"Bangcats",
+	"thumb":"logo.jpg",
+	"fakethumb":"logo.jpg", 
+	"fake": " 「  Bangcats 」\nCreated By @Catur K.A"
+}
